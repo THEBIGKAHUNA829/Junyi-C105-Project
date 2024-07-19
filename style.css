@@ -1,0 +1,26 @@
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_object{
+    color:black;
+}
+
+body{
+    background-color: aliceblue;
+    color:rgb(1, 17, 31);
+}
+
+#camera{
+    border:2px dashed rgb(1, 33, 62);
+    width: 350px;
+    height:300px;
+}
+
+
+#captured_image{
+    border:2px dashed rgb(12, 81, 84);
+    width: 350px;
+    height:265px;
+}
